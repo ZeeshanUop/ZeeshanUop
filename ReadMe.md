@@ -19,7 +19,7 @@
 <a href="mailto:muhammadzeeshan034594@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/muhammad-zeeshan-1326242b7"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/ZeeshanUop"><img src="https://img.shields.io/badge/GitHub-ZeeshanUop-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://bsky.app/profile/ZeeshanDev"><img src="https://img.shields.io/badge/Bluesky-Follow-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" /></a>
+
 
 </div>
 
