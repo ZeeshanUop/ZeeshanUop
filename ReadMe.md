@@ -238,7 +238,7 @@ I'll reply with a **practical approach, estimated timeline, and clear next steps
 
 <br/><br/>
 
-[💼 LinkedIn](https://www.linkedin.com/in/muhammad-zeeshan-1326242b7) &nbsp;•&nbsp; [🦋 Bluesky](https://bsky.app/profile/ZeeshanDev) &nbsp;•&nbsp; [🐙 GitHub](https://github.com/ZeeshanUop)
+[💼 LinkedIn](https://www.linkedin.com/in/muhammad-zeeshan-1326242b7) &nbsp;•&nbsp; [🐙 GitHub](https://github.com/ZeeshanUop)
 
 </div>
 
