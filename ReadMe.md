@@ -1,7 +1,7 @@
 <!-- ═══════════════ HEADER BANNER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Muhammad%20Zeeshan&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%C2%B7%20Mobile%20App%20Engineer%20%C2%B7%20Cloud%20%26%20DevOps%20Engineer&descSize=18&descAlignY=60" width="100%" alt="Muhammad Zeeshan banner" />
+<img src="assets/banner.svg" width="100%" alt="Muhammad Zeeshan banner" />
 
 <a href="https://github.com/ZeeshanUop">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=3FB6FF&center=true&vCenter=true&width=720&lines=Building+reliable+iOS+%26+Android+apps;From+Figma+design+to+App+Store+release;Flutter+%C2%B7+Firebase+%C2%B7+Node.js+%C2%B7+AWS;4+years+%C2%B7+20%2B+mobile+apps+shipped" alt="Typing animation" />
@@ -56,19 +56,9 @@ I turn product ideas and designs into polished, production-ready applications, c
 
 ## 🔄 How I Work
 
-```mermaid
-flowchart LR
-    A["🎨 Figma<br/>UI / UX"] --> B["📱 Flutter<br/>Development"]
-    B --> C["⚙️ Backend<br/>& APIs"]
-    C --> D["☁️ Cloud &<br/>CI/CD"]
-    D --> E["🚀 App Store &<br/>Google Play"]
-
-    style A fill:#F24E1E,stroke:#fff,color:#fff
-    style B fill:#02569B,stroke:#fff,color:#fff
-    style C fill:#339933,stroke:#fff,color:#fff
-    style D fill:#FF9900,stroke:#fff,color:#000
-    style E fill:#0A66C2,stroke:#fff,color:#fff
-```
+<div align="center">
+  <img src="assets/workflow.svg" width="100%" alt="Workflow: Figma to Flutter to Backend to Cloud to Release" />
+</div>
 
 ---
 
@@ -214,16 +204,17 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ZeeshanUop&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&bg_color=0d1117" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanUop&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+<a href="https://github.com/ZeeshanUop?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20All-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="https://github.com/ZeeshanUop?tab=followers"><img src="https://img.shields.io/github/followers/ZeeshanUop?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=181717&color=0A66C2" alt="Followers" /></a>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ZeeshanUop&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
+<!-- OPTIONAL: after running the metrics workflow once, uncomment the line below -->
+<!-- <img src="assets/github-metrics.svg" width="100%" alt="GitHub metrics" /> -->
 
 </div>
 
@@ -260,8 +251,6 @@ I'll reply with a **practical approach, estimated timeline, and clear next steps
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ZeeshanUop&style=flat-square&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" alt="footer" />
+<img src="assets/footer.svg" width="100%" alt="Thanks for visiting" />
 
 </div>
