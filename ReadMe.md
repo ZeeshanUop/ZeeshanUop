@@ -1,27 +1,194 @@
-# 💫 About Me:
-Hi, I'm Muhammad Zeeshan, a Flutter developer with 4 years of experience and 20+ mobile apps built for iOS and Android. I can design your app in Figma, build it in Flutter, connect it to a Node.js, Firebase, or AWS backend, and publish it on the App Store and Google Play.<br><br>Most clients come to me with one of three needs: a new app built from scratch, an existing app that is buggy or unstable, or a design that needs to become a working product. I've worked on all three, and I try to keep the process simple. You tell me what you need, I tell you honestly how I'd build it, and you get regular updates until it's live.<br><br>WHAT I DO<br><br>Flutter and Mobile App Development<br>- Cross-platform iOS and Android apps with Flutter and Dart<br>- Clean, maintainable code using BLoC and Provider<br>- Firebase, REST API integration, push notifications, and real-time features<br>- Login with email, Google, Apple, and Facebook<br>- Payment gateway integration<br>- Bug fixing, performance improvements, and taking over existing Flutter projects<br>- App Store and Google Play publishing<br><br>UI/UX and Figma Design<br>- Mobile app screens, prototypes, and design systems in Figma<br>- Interfaces that are easy to use for people of all ages<br>- Design and development from one person, so nothing gets lost between handoff and code<br><br>Backend and APIs<br>- REST APIs with Node.js, MongoDB, and Firebase<br>- User roles, permissions, and secure data access<br>- Third-party integrations<br><br>AWS and Deployment<br>- Secure, reliable, and cost-conscious AWS setups (EC2, S3, RDS, Lambda, IAM, CloudFront)<br>- Docker and CI/CD with GitHub Actions so releases are fast and repeatable<br><br>APPS I'VE BUILT<br><br>ChurchInApp: a church community app with QR check-in, sermons, group messaging, prayer requests, and secure giving.<br><br>Radiant Notes: a medical eLibrary for students and doctors with ebooks, MCQs, timed mock exams, AI explanations, and progress tracking.<br><br>Mr Valet: a parking management app for a Qatar-based company, with five user roles, five payment methods, and a React admin panel.<br><br>EduMake: a mobile app for a school management platform used by subscribed schools.<br><br>EasyData: a company app where employees upload documents and every role gets its own access to them, so sensitive files stay with the right people.<br><br>I've also built a fuel station app (petrol, CNG, diesel), a cricket ground ticket booking app, and a golf cart booking app for match grounds.<br><br>A recent client said I fixed many existing issues and improved the stability of their app. You can read the full testimonial on my profile.<br><br>CERTIFICATIONS<br>AWS Solutions Architect Associate, Microsoft Azure Administrator, and Microsoft Certified DevOps Engineer Expert.<br><br>HOW WE CAN START<br>Send me a short message with your idea, your Figma designs (if you have them), or a link to your current app, and tell me whether you need iOS, Android, or both. I'll reply with a simple plan, a timeline, and an estimate.<br><br>I'm available for new projects and respond quickly.
+::: {align="center"}
+# Hi, I'm Muhammad Zeeshan 👋
 
+### Flutter Developer · Mobile App Engineer · Cloud & DevOps Engineer
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ZeeshanDev) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61596078774464) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/muhammad-zeeshan-1326242b7) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@myportfolio-delta-neon.vercel.app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadzeeshan034594@gmail.com) 
+Building reliable iOS and Android applications --- from Figma design and
+development to backend integration, cloud deployment, and app-store
+release.
 
-# 💻 Tech Stack:
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ZeeshanUop&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ZeeshanUop&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ZeeshanUop&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub](https://img.shields.io/badge/GitHub-ZeeshanUop-181717?style=for-the-badge&logo=github)](https://github.com/ZeeshanUop)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadzeeshan034594@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-zeeshan-1326242b7)
+[![Bluesky](https://img.shields.io/badge/Bluesky-Follow-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/ZeeshanDev)
+:::
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ZeeshanUop&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+------------------------------------------------------------------------
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 👨‍💻 About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ZeeshanUop&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I'm **Muhammad Zeeshan**, a Flutter developer with **4 years of
+experience** and **20+ mobile apps built for iOS and Android**.
 
----
-[![](https://komarev.com/ghpvc/?username=ZeeshanUop&icon=0&color=0)](https://visitcount.itsvg.in)
+I help turn product ideas and designs into working applications. I can
+take a project from **Figma UI/UX design** through Flutter development,
+backend and API integration, cloud deployment, testing, and publishing
+on the Apple App Store and Google Play.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I work across three common project needs:
+
+-   **Build:** Develop a new mobile app from the ground up.
+-   **Improve:** Fix bugs, improve performance, and stabilize an
+    existing application.
+-   **Deliver:** Turn Figma designs or an existing prototype into a
+    production-ready app.
+
+I value clear communication, maintainable code, practical architecture,
+and regular project updates.
+
+## 🧰 What I Do
+
+### 📱 Flutter & Mobile App Development
+
+-   Cross-platform iOS and Android apps using Flutter and Dart
+-   Maintainable app architecture with BLoC and Provider
+-   Firebase and REST API integration
+-   Push notifications and real-time features
+-   Email, Google, Apple, and Facebook authentication
+-   Payment gateway integration
+-   Bug fixing, performance optimization, and existing-app support
+-   App Store and Google Play publishing
+
+### 🎨 UI/UX & Figma
+
+-   Mobile app UI/UX design, screens, and interactive prototypes
+-   Reusable components and design systems
+-   User-friendly interfaces for a range of audiences
+-   Design-to-development workflow with fewer handoff gaps
+
+### ⚙️ Backend & APIs
+
+-   REST API development and integration
+-   Node.js, Express.js, MongoDB, and Firebase
+-   Authentication, roles, permissions, and secure data access
+-   Third-party service integrations
+
+### ☁️ AWS, Cloud & DevOps
+
+-   AWS services: EC2, S3, RDS, Lambda, IAM, and CloudFront
+-   Secure and cost-conscious cloud deployments
+-   Docker and containerized workflows
+-   CI/CD pipelines with GitHub Actions
+-   Deployment, monitoring, and release automation
+
+## 🚀 Selected Projects
+
+  -----------------------------------------------------------------------
+  Project                             What it does
+  ----------------------------------- -----------------------------------
+  **ChurchInApp**                     Church community app featuring QR
+                                      check-in, sermons, group messaging,
+                                      prayer requests, and secure giving.
+
+  **Radiant Notes**                   Medical eLibrary for students and
+                                      doctors, with ebooks, MCQs, timed
+                                      mock exams, AI explanations, and
+                                      progress tracking.
+
+  **Mr Valet**                        Parking management solution for a
+                                      Qatar-based company, with five user
+                                      roles, five payment methods, and a
+                                      React admin panel.
+
+  **EduMake**                         Mobile application for a
+                                      school-management platform used by
+                                      subscribed schools.
+
+  **EasyData**                        Company document-management app
+                                      with role-based access to help keep
+                                      sensitive files available only to
+                                      authorized users.
+
+  **Other apps**                      Fuel station, cricket ground ticket
+                                      booking, and golf cart booking
+                                      applications.
+  -----------------------------------------------------------------------
+
+*Some projects are client-owned. Public demos or source code may not be
+available.*
+
+## 🛠️ Technology & Tools
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub
+Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+
+**Design & Development Tools**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+## 🎓 Certifications
+
+-   **AWS Certified Solutions Architect -- Associate**
+-   **Microsoft Certified: Azure Administrator Associate**
+-   **Microsoft Certified: DevOps Engineer Expert**
+
+## 📊 GitHub Overview
+
+::: {align="center"}
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=ZeeshanUop&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+
+![GitHub
+Streak](https://streak-stats.demolab.com?user=ZeeshanUop&theme=github-dark-blue&hide_border=true)
+
+![Top
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanUop&layout=compact&theme=github_dark&hide_border=true)
+:::
+
+## 🤝 Let's Work Together
+
+Have an app idea, an existing Flutter project that needs attention, or
+Figma designs ready for development?
+
+Send me a message with: 1. A short description of your project 2. Your
+Figma link or current app link, if available 3. Whether you need iOS,
+Android, or both
+
+I'll get back to you with a practical approach, estimated timeline, and
+clear next steps.
+
+📧 **Email:** <muhammadzeeshan034594@gmail.com>\
+💼 **LinkedIn:** [Muhammad
+Zeeshan](https://www.linkedin.com/in/muhammad-zeeshan-1326242b7)\
+🦋 **Bluesky:** [@ZeeshanDev](https://bsky.app/profile/ZeeshanDev)
+
+------------------------------------------------------------------------
+
+::: {align="center"}
+*Thanks for visiting my profile!*
+
+![Profile
+Views](https://komarev.com/ghpvc/?username=ZeeshanUop&style=flat-square&color=0e75b6)
+:::
